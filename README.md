@@ -1,2 +1,5 @@
 # Rock-Paper-and-Scissors-Game-Python
- In this game you can choose how many rounds you want and you should beat the computer by having more points than it
+ This is The Rock Paper and Scissors game..
+ In this game you will be competeing with the computer..
+ You have to score more points than it to win the game
+ read everything properly when you run it
